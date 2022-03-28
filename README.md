@@ -1,4 +1,3 @@
 # hello-world
-Ya boi's first Repository:
+First Repository:
 
-Where am I? (No Comment)
